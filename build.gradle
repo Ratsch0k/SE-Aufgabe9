@@ -43,10 +43,8 @@ spotbugs {
 }
 
 jar {
-    manifest {
-        manifest {
-            attributes("Main-Class" : "de.tud.cs.se.flashcards.Main")
-        }
+      manifest {
+          attributes("Main-Class" : "de.tud.cs.se.flashcards.Main")
     }
 }
 

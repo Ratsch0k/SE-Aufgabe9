@@ -10,5 +10,3 @@ Build status: [![Build Status](https://travis-ci.com/Ratsch0k/SE-Aufgabe9.svg?br
 * Julien Broßeit
 * Simon Sachs
 * Simon Kurz
-
---------
